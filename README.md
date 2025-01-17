@@ -1,76 +1,21 @@
-# 👋 Welcome to My GitHub Profile!  
-
-Hi, I'm **Etornam Abletor**, 💻 Full Stack MERN Developer, I thrive at the intersection of creativity and technology, transforming complex ideas into seamless, dynamic web experiences. My expertise lies in the 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 (𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐍𝐨𝐝𝐞.𝐣𝐬)—a powerhouse combination for building fast, scalable, and interactive applications.  
-
----
-
-💡 𝐖𝐡𝐚𝐭 𝐃𝐫𝐢𝐯𝐞𝐬 𝐌𝐞:
-- Crafting intuitive front-end interfaces that elevate user experiences. 
-- Engineering robust back-end systems that ensure performance and security. 
-- Continuously learning new tools and technologies to stay ahead in the ever-evolving tech landscape. 
-
----
+# 💫 About Me:
+Hi, I'm Etornam Abletor, 💻 Full Stack MERN Developer, I thrive at the intersection of creativity and technology, transforming complex ideas into seamless, dynamic web experiences. My expertise lies in the 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤 (𝐌𝐨𝐧𝐠𝐨𝐃𝐁, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, 𝐍𝐨𝐝𝐞.𝐣𝐬)—a powerhouse combination for building fast, scalable, and interactive applications.
 
 
-🛠 𝐌𝐲 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡: 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kingetor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iametor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/etornam-abletor) 
 
-I believe in solving problems with precision, teamwork, and innovation. Whether it's designing a new feature, optimizing a system, or collaborating with cross-functional teams, I bring passion and dedication to every project.  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abletetor&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abletetor&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abletetor&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-
-🌍 𝐖𝐡𝐲 𝐌𝐄𝐑𝐍 𝐌𝐚𝐭𝐭𝐞𝐫𝐬:
-
-The MERN stack empowers me to build full-stack solutions with a unified JavaScript codebase, reducing development time while maximizing performance. From real-time applications to scalable APIs, I leverage the MERN stack to create solutions that meet modern business needs.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abletetor&icon=4&color=0)](https://visitcount.itsvg.in)
 
-🌱 Currently Learning
-
-Advanced TypeScript for scalable applications.
-Exploring Next.js for server-side rendering and static site generation.
-Diving deeper into cloud computing and DevOps tools like Docker and AWS.
-
----
-
-📂 My Projects
-
-🛠️ Secure Dashboard System – A professional dashboard system with role-based access for admins and interns.
-
-
-🌐 Employee Management System – A comprehensive system for managing employee records and tasks.
-
-
-🎨 Portfolio Website – My personal portfolio showcasing skills, projects, and accomplishments.
-
-Check out my GitHub repositories to see more of my work and contributions!
-
----
-
-✨ My Values
-
-Collaboration: I believe the best solutions are built through teamwork.
-
-
-Continuous Learning: Technology evolves, and so do I.
-
-
-Problem Solving: I thrive on solving challenging problems with creative solutions.
-
----
-
-📫 Let’s Connect
-
-Feel free to reach out or explore more about me through these platforms:
-
-🌐 <a href="https://etorofficial.netlify.app/" target="_blank">Portfolio</a><br>
-💼 <a href="https://www.linkedin.com/in/etornam-abletor-a609a719b/" target="_blank" >LinkedIn</a><br>
-📧 <a href="mailto:abletetor@gmail.com">Email</a>
-
----
-🌟 Fun Fact
-
-Coding isn’t just a job for me; it’s a passion. When I’m not debugging, you can find me exploring new tech trends, reading, or brainstorming my next side project!
-
-Let’s collaborate to create something amazing. Happy coding! 😄
-**Let’s build something amazing together! 🚀**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
